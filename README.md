@@ -1,0 +1,4 @@
+LeagueOfLegendsCalc
+===================
+
+Алгоритм
